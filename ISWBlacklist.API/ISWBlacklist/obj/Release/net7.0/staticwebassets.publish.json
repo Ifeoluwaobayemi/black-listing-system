@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wgDrPNWjFU+FSHqUZaf0HOxs1xy5b6gVKxN3zsEJdT0=",
+  "Source": "ISWBlacklist",
+  "BasePath": "_content/ISWBlacklist",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

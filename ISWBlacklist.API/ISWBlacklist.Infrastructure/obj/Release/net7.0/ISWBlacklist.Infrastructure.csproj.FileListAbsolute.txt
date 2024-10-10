@@ -1,0 +1,17 @@
+C:\Users\Dell\Source\Repos\blacklisting_system\ISWBlacklist.API\ISWBlacklist.Infrastructure\bin\Release\net7.0\ISWBlacklist.Infrastructure.deps.json
+C:\Users\Dell\Source\Repos\blacklisting_system\ISWBlacklist.API\ISWBlacklist.Infrastructure\bin\Release\net7.0\ISWBlacklist.Infrastructure.runtimeconfig.json
+C:\Users\Dell\Source\Repos\blacklisting_system\ISWBlacklist.API\ISWBlacklist.Infrastructure\bin\Release\net7.0\ISWBlacklist.Infrastructure.dll
+C:\Users\Dell\Source\Repos\blacklisting_system\ISWBlacklist.API\ISWBlacklist.Infrastructure\bin\Release\net7.0\ISWBlacklist.Infrastructure.pdb
+C:\Users\Dell\Source\Repos\blacklisting_system\ISWBlacklist.API\ISWBlacklist.Infrastructure\bin\Release\net7.0\ISWBlacklist.Domain.dll
+C:\Users\Dell\Source\Repos\blacklisting_system\ISWBlacklist.API\ISWBlacklist.Infrastructure\bin\Release\net7.0\ISWBlacklist.Domain.pdb
+C:\Users\Dell\Source\Repos\blacklisting_system\ISWBlacklist.API\ISWBlacklist.Infrastructure\obj\Release\net7.0\ISWBlacklist.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Dell\Source\Repos\blacklisting_system\ISWBlacklist.API\ISWBlacklist.Infrastructure\obj\Release\net7.0\ISWBlacklist.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Source\Repos\blacklisting_system\ISWBlacklist.API\ISWBlacklist.Infrastructure\obj\Release\net7.0\ISWBlacklist.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Dell\Source\Repos\blacklisting_system\ISWBlacklist.API\ISWBlacklist.Infrastructure\obj\Release\net7.0\ISWBlacklist.Infrastructure.AssemblyInfo.cs
+C:\Users\Dell\Source\Repos\blacklisting_system\ISWBlacklist.API\ISWBlacklist.Infrastructure\obj\Release\net7.0\ISWBlacklist.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\Repos\blacklisting_system\ISWBlacklist.API\ISWBlacklist.Infrastructure\obj\Release\net7.0\ISWBlacklist.Infrastructure.csproj.CopyComplete
+C:\Users\Dell\Source\Repos\blacklisting_system\ISWBlacklist.API\ISWBlacklist.Infrastructure\obj\Release\net7.0\ISWBlacklist.Infrastructure.dll
+C:\Users\Dell\Source\Repos\blacklisting_system\ISWBlacklist.API\ISWBlacklist.Infrastructure\obj\Release\net7.0\refint\ISWBlacklist.Infrastructure.dll
+C:\Users\Dell\Source\Repos\blacklisting_system\ISWBlacklist.API\ISWBlacklist.Infrastructure\obj\Release\net7.0\ISWBlacklist.Infrastructure.pdb
+C:\Users\Dell\Source\Repos\blacklisting_system\ISWBlacklist.API\ISWBlacklist.Infrastructure\obj\Release\net7.0\ISWBlacklist.Infrastructure.genruntimeconfig.cache
+C:\Users\Dell\Source\Repos\blacklisting_system\ISWBlacklist.API\ISWBlacklist.Infrastructure\obj\Release\net7.0\ref\ISWBlacklist.Infrastructure.dll
